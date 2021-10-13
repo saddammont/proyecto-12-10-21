@@ -1,0 +1,40 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+html{
+    background-color: black;
+    color:blanchedalmond;
+       
+    
+
+}
+
+
+header{
+    
+    color: #03d9e8;
+    text-shadow: 3px 3px 3px #2f4d58;
+    background-color: #01012b;
+    padding: 2rem;
+}
+.headerBackground{
+display: flex;
+justify-content: space-between;
+}
+menu ul{
+    list-style: none;
+    display: flex;
+    
+        
+}
+menu ul li{
+    margin-right: 3rem;
+    font-size: larger;
+    
+}

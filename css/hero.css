@@ -1,0 +1,24 @@
+.heroBackground{
+    
+    background-image: url("/images/osman-rana-G7VN8NadjO0-unsplash.jpg");
+   background-size: cover;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+    width: auto;
+   height: 41rem;
+   padding-top: 7rem;
+}
+
+.imagenHero {
+    background-image: url(/images/saddam.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 23rem;
+    height: 26rem;
+}
+.textHero{
+    font-size: 4rem;
+    color: #f3e600;
+    text-shadow: 4px 4px 9px #2f4d58;
+}
